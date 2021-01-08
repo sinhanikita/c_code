@@ -1,0 +1,4 @@
+hii, git
+this is my first git text file
+lets see how it goes in future
+byye for now.
